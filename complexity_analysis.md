@@ -39,3 +39,11 @@ Part 1: O(LS²) / O(S²)
 Part 2: O(LS²) / O(S²)
 
 where L is number of lines, S is width of the grid
+
+## Day 6 - Starting to get a bit hard
+
+Part 1 (Brute Force): O(I\*2^D)
+
+Part 2 (Dynamic Programming): O(D + I)
+
+where I is initial number of fishes, D is number of days
