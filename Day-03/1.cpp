@@ -6,7 +6,7 @@ int main() {
     const int TWOPOW[]{2048, 1024, 512, 256, 128, 64, 32, 16, 8, 4, 2, 1};
     const int LINES = 1000;
 
-    map<int, int> heatmap;
+    int heatmap[BITS]{0};
 
     ifstream in("1.in");
     for (int i = 0; i < LINES; i++) {
