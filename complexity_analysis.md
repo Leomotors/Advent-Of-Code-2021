@@ -55,3 +55,11 @@ Part 1: O(NlogN)
 Part 2: O(NM)
 
 where N is number of crabs, M is maximum of horizontal position of crabs
+
+## Day 15 - Dynamic Programming 2D
+
+~~Part 1: O(N²)~~ Does not work for all cases
+
+Part 2: O(K³N³)
+
+where N is width and height of cave, K is number of times the cave width
