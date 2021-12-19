@@ -21,7 +21,7 @@ Surely not to use it on production
 
 ## My Progress
 
-**Total Stars**: 16/50
+**Total Stars**: 18/50
 
 | Day | Stars |
 | --- | ----- |
@@ -33,7 +33,7 @@ Surely not to use it on production
 | 6   | 🌟🌟  |
 | 7   | 🌟🌟  |
 | 8   |       |
-| 9   |       |
+| 9   | 🌟🌟  |
 | 10  |       |
 | 11  |       |
 | 12  |       |

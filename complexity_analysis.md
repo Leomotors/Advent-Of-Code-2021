@@ -56,6 +56,14 @@ Part 2: O(NM)
 
 where N is number of crabs, M is maximum of horizontal position of crabs
 
+## Day 9
+
+Part 1: O(NM)
+
+Part 2 (Flood Fill): O(NM)
+
+where N is rows, M is cols
+
 ## Day 15 - ~~Dynamic Programming 2D~~
 
 ~~Part 1: O(N²)~~ Does not work for all cases
