@@ -56,9 +56,11 @@ Part 2: O(NM)
 
 where N is number of crabs, M is maximum of horizontal position of crabs
 
-## Day 15 - Dynamic Programming 2D
+## Day 15 - ~~Dynamic Programming 2D~~
 
 ~~Part 1: O(N²)~~ Does not work for all cases
+
+### Similar to DP 2D + Bellman-Ford
 
 Part 2: O(K³N³)
 
